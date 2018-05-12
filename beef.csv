@@ -1,11 +1,3 @@
-Source: USDA National Nutrient Database for Standard Reference Legacy Software v.3.9.1 2018-04-10
-"Nutrients: Energy (kcal); Protein (g); Sugars, total (g)"
-"Food Groups: Beef Products"
-Food Subset:Abridged List
-Ordered by:Nutrient Content
-Measured by:100 g
-Report Run at: 04-15-2018T12:48
-NDB_NO,Description,"Energy"(kcal)Per 100 g,"Protein"(g)Per 100 g,"Sugars, total"(g)Per 100 g,
 23297,"Beef, Australian, imported, grass-fed, seam fat, raw",562.0,9.58,0.0,,
 13855,"Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8"" fat, choice, cooked, roasted",359.0,22.28,--,,
 13918,"Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8"" fat, all grades, cooked, broiled",267.0,26.46,0.0,,
